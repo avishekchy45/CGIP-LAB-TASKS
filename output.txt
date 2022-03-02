@@ -1,14 +1,13 @@
-First Point = 2 3
-End Point = 12 8
-All the in between points are listed below:
-2 3
-3 4
-4 4
-5 5
-6 5
-7 6
-8 6
-9 7
-10 7
-11 8
-12 8
+First Point : 30 18
+End Point : 20 10
+According to Bresenham Line Drawing Algorithm other points are:
+21 11
+22 12
+23 12
+24 13
+25 14
+26 15
+27 16
+28 16
+29 17
+30 18
