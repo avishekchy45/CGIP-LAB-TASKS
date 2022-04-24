@@ -1,0 +1,4 @@
+Include graphics.h in CodeBlocks 10.05
+LINK: https://www.geeksforgeeks.org/include-graphics-h-codeblocks/
+Include graphics.h in CodeBlocks 17.12
+LINK: https://erainnovator.com/how-to-include-graphics-h-in-codeblocks/
