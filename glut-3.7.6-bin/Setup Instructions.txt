@@ -1,0 +1,2 @@
+Setup OpenGL (GLUT) in CodeBlocks
+LINK: https://www.codewithc.com/how-to-setup-opengl-glut-in-codeblocks/
