@@ -1,1 +1,16 @@
+
+DDA:
+0 0
+700 525
+BRESENHAM:
+0 0
+700 525
+MIDPOINT:
+300 200
+25
+BOUNDARY FILL:
+250 200
+350 250
+HUFFMAN CODING:
 This is a large message from Avishek Chy.
+Huffman coding is a data compression algorithm.
