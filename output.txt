@@ -1,7 +1,6 @@
-Starting Point = 0 0
-Ending Point = 700 525
-Colored Pixel using DDA Line Drawing Algorithm:
-0 0
+Starting Point : 0 0
+Ending Point : 700 525
+Colored Pixel using Bresenham Line Drawing Algorithm:
 1 1
 2 2
 3 2
