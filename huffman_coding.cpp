@@ -95,17 +95,18 @@ void buildHuffmanTree(string data)
     cout << "Huffman Codes are : " << endl;
     for (auto pair : huffmanCode)
         cout << pair.first << " " << pair.second << endl;
-    cout << "\nOriginal string was : " << data << endl;
+    cout << "\nOriginal String : " << data << endl;
     // print encoded string
     string str = "";
     for (char ch : data)
         str += huffmanCode[ch];
-    cout << "\nEncoded string is : " << str << endl;
+    cout << "\nEncoded String : " << str << endl;
     // traverse the Huffman Tree again and this time decode the encoded string
     int index = -1;
-    cout << "\nDecoded string is: ";
+    cout << "\nDecoded String: ";
     while (index < (int)str.size() - 2)
         decode(root, index, str);
+    cout << endl;
 }
 
 int main()
